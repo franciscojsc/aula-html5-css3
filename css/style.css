@@ -22,6 +22,12 @@ p {
   font-size: 18px;
 }
 
-img {
+.img-padrao {
+  width: 300px;
   margin-bottom: 20px;
+}
+
+.img-padrao.img-email {
+  width: 50px;
+  margin-bottom: 10px;
 }
